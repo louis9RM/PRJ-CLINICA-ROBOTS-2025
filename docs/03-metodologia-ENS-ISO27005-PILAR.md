@@ -16,5 +16,5 @@ MicroPILAR permitió el modelado del sistema mediante:
 - Asociaciones con posibles amenazas y escenarios
 - Evaluación probabilística y cualitativa del riesgo
 
-El archivo original del análisis se encuentra en:
+El archivo original del análisis se encuentra en: PRJ-CLINICA-ROBOTS-2025.mgr
 
