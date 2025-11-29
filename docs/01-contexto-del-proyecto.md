@@ -11,7 +11,7 @@ El objetivo es realizar transporte seguro, trazable y automatizado de:
 
 Este sistema busca mejorar la eficiencia logística hospitalaria, reducir tiempos críticos y disminuir los riesgos humanos asociados a la manipulación de recursos clínicos.
 
-Adicionalmente, se emplea la herramienta **MicroPILAR** como soporte metodológico para la evaluación de riesgos basada en ENS e ISO 27005, permitiendo:
+Se emplea la herramienta **MicroPILAR** como soporte metodológico para la evaluación de riesgos basada en ENS e ISO 27005, permitiendo:
 
 - Identificar activos críticos
 - Evaluar amenazas y vulnerabilidades
