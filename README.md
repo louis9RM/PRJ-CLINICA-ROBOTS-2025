@@ -1,6 +1,6 @@
 # Proyecto: Sistema de Gestión de Robots Clínicos Automatizados
 
-Se el análisis de riesgo, cumplimiento normativo y arquitectura asociada al despliegue de un sistema de robótica hospitalaria basado en **Open-RMF (ROS2)**, complementado con un análisis formal mediante la herramienta **Micro PILAR**.
+Se desarrolla el análisis de riesgo, cumplimiento normativo y arquitectura asociada al despliegue de un sistema de robótica hospitalaria basado en **Open-RMF (ROS2)**, complementado con un análisis formal mediante la herramienta **Micro PILAR**.
 
 
 <p align="center">
