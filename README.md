@@ -22,8 +22,8 @@ El análisis se encuentra alineado con:
 
 - ISO/IEC 27005 — Gestión de riesgos de seguridad de la información
 - ISO/IEC 27001 — Controles de seguridad
-- ENS (Esquema Nacional de Seguridad)
-- RGPD — Evaluación de impacto en protección de datos
+- ENS (Esquema Nacional de Seguridad) —  Garantizar la seguridad y protección de la información
+- RGPD (General Data Protection Regulation) — Evaluación de impacto en protección de datos
 
 ---
 
