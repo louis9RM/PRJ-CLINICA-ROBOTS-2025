@@ -12,22 +12,7 @@ Las acciones propuestas se basan en los controles definidos por ISO/IEC 27002:20
 
 ---
 
-# 🎯 Siguiente paso
 
-Ahora que ya llené estos archivos, tienes tres opciones:
 
-| Opción | Acción |
-|--------|--------|
-| ✔ Copiar y pegar en GitHub | Manual |
-| 🚀 Usar un `git pull` → editar local y hacer commit | Recomendado |
-| 📦 Pedir que lo formatee como archivo completo `.zip` listo para subir | Disponible |
 
----
 
-### ¿Quieres que ahora también:
-
-- Llene los archivos **08-RGPD**, **09-controles**, y **10-anexos**
-- Genere tu **README final profesional**
-- Genere una versión **PDF como informe final**?
-
-Responde: **Sí, continuar**.
