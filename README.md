@@ -4,8 +4,11 @@ Se el análisis de riesgo, cumplimiento normativo y arquitectura asociada al des
 
 
 <p align="center">
-  <img src="https://www.frontiersin.org/files/Articles/922835/frobt-09-922835-HTML/image_m/frobt-09-922835-g009.jpg" width="400">
+  <img src="https://www.frontiersin.org/files/Articles/922835/frobt-09-922835-HTML/image_m/frobt-09-922835-g008.jpg" width="600">
 </p>
+
+<p align="center"><em>Figura. TIAGo realiza una entrega de muestras, iniciada por un profesional médico (A), seguida de la verificación de la solicitud (B). A continuación, RMF comenzó a enviar objetivos de navegación al robot y a controlar las puertas automatizadas (C). Evitando obstáculos dinámicos (D) y recorriendo el pasillo, manteniéndose a la derecha (E), el robot llegó al laboratorio (F), donde un profesional médico entregó las muestras (G) y verificó la entrega (H). Tras la verificación, el robot regresó a la UCI, a la espera de una nueva solicitud de entrega (I).</em></p>
+
 
 
 El objetivo del sistema es coordinar flotas de robots autónomos dentro de entornos clínicos para el transporte seguro de:
@@ -39,7 +42,7 @@ El análisis se encuentra alineado con:
 
 - 🔧 **Fase:** Modelado + Evaluación de amenazas
 - 📝 **Metodología aplicada:** Micro PILAR + ISO27005
-- 📅 **Última actualización:** *(automática una vez uses Git)*
+
 
 ---
 
