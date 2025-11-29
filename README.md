@@ -1,6 +1,6 @@
 # Proyecto: Sistema de Gestión de Robots Clínicos Automatizados
 
-Este repositorio documenta el análisis de riesgo, cumplimiento normativo y arquitectura asociada al despliegue de un sistema de robótica hospitalaria basado en **Open-RMF (ROS2)**, complementado con un análisis formal mediante la herramienta **Micro PILAR**.
+Se el análisis de riesgo, cumplimiento normativo y arquitectura asociada al despliegue de un sistema de robótica hospitalaria basado en **Open-RMF (ROS2)**, complementado con un análisis formal mediante la herramienta **Micro PILAR**.
 
 
 <p align="center">
@@ -20,7 +20,7 @@ El análisis se encuentra alineado con:
 - ISO/IEC 27005 — Gestión de riesgos de seguridad de la información
 - ISO/IEC 27001 — Controles de seguridad
 - ENS (Esquema Nacional de Seguridad)
-- RGPD — Evaluación de impacto en protección de datos (cuando aplica)
+- RGPD — Evaluación de impacto en protección de datos
 
 ---
 
@@ -43,7 +43,7 @@ El análisis se encuentra alineado con:
 
 ---
 
-### 👥 Equipo
+### 👥 Equipo 5
 
 Proyecto académico desarrollado por:
 
